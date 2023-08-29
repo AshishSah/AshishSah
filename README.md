@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AshishSah
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning azure 
-- 💞️ I’m looking to collaborate on startups
+- 🌱 I’m interested in developing applications based on dotNet stack
+- 💞️ I’m looking to collaborate on startups/enterprises
 - 📫 How to reach me .. Email - sah.ashish89@gmail.com
 
 <!---
